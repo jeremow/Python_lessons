@@ -33,13 +33,35 @@ What you already learned:
      
 What we will do together:
 
-- [ ] 2. Reminder of what you already learned
-- [ ] 3. Functions and modules
+#### First part : Python basics & oriented-object programming
+
+- [ ] 1. Reminder of what you already learned
+- [ ] 2. Functions and modules
     - [ ] 1. Advanced functions
     - [ ] 2. Modules & Packages
     - [ ] 3. Exceptions & Traceback
-- [ ] 4. Oriented-object programmation
+- [ ] 3. Advanced basics
     - [ ] 1. Create your first object
     - [ ] 2. Lists and tuples (advanced)
     - [ ] 3. Files
     - [ ] 4. Variables (advanced)
+- [ ] 4. Welcome to the oriented-object world
+    - [ ] 1. Classes
+    - [ ] 2. Properties
+    - [ ] 3. Specials methods
+    - [ ] 4. Inheritance
+
+#### Second part : Modules
+
+- [ ] 1. Matplotlib
+- [ ] 2. Numpy Scipy
+- [ ] 3. Obspy
+- [ ] 4. Tkinter
+- [ ] 5. Cx_Freeze
+
+#### Third part : Going really deep in Python (optional)
+
+- [ ] 1. Decorators & Meta-classes
+- [ ] 2. Regular expression
+- [ ] 3. Network & Passwords
+- [ ] 4. Multi-threadingb
