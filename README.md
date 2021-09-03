@@ -17,26 +17,26 @@ I will give you other exercises to do outside of the lesson which are totally op
 
 ### Content
 
-- [ ] 0 Discover Python and first step with the interpreter
-- [ ] 1 Understanding of Python and its grammar - 5 weeks - 1 Exam
+- [ ] 1 Discover Python and first step with the interpreter
+- [ ] 2 Understanding of Python and its grammar - 5 weeks - 1 Exam
     - [ ] 1 Variables - 1st week
     - [ ] 2 Types and functions - 1st week
     - [ ] 3 Flow control statement - 1st, 2nd week (lesson), 3rd week (exercises)
     - [ ] 4 Lists and tuples - 4th week
     - [ ] 5 Dictionaries - 5th week
-    - [ ] Exam Chapter 1
-- [ ] 2 Functions and modules - 3 weeks - 1 Exam
+    - [ ] Exam Chapter 2
+- [ ] 3 Functions and modules - 3 weeks - 1 Exam
     - [ ] 1 Functions - 1st, 2nd week (lesson), 3rd week (exercises)
     - [ ] 2 Modules & Packages - 2nd week
     - [ ] 3 Exceptions & Traceback - 3rd week
-    - [ ] Exam Chapter 2
-- [ ] 3 Object-oriented programmation with obspy - 2 weeks
+    - [ ] Exam Chapter 3
+- [ ] 4 Object-oriented programmation with obspy - 2 weeks
     - [ ] 1 Files - 1st week
     - [ ] 2 Classes and properties - 1st, 2nd week
     - [ ] 3 Special methods and Inheritance - 2nd week
-- [ ] 4 Obspy - 3 weeks - 1 Exam
+- [ ] 5 Obspy - 3 weeks - 1 Exam
     - [ ] 1 Handling Timestamps and Waveform data - 1st week (lesson), 2nd week (exercises)
     - [ ] 2 Station and Event Metadata - 3rd week
     - [ ] 3 Retrieve Data from Datacenters - 3rd week (lesson + exercise)
-- [ ] 5 Final Exam
+- [ ] 6 Final Exam
     
